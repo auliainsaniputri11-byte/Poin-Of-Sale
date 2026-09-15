@@ -1,6 +1,0 @@
-git init
-git add .
-git commit -m "Commit awal aplikasi kasir"
-git branch -M main
-git remote add origin https://github.com/USERNAME_ANDA/aplikasi-kasir.git
-git push -u origin main
